@@ -18,9 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarthakj7792&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="[https://meme-api.com/gimme/](https://i.redd.it/every-year-v0-h5wtc91mfgcb1.jpg)" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sarthakj7792&icon=0&color=1)](https://visitcount.itsvg.in)
 
